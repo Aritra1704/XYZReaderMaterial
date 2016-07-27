@@ -1,0 +1,54 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="theme_primary">#04561A</color>
+    <color name="theme_primary_dark">#04561A</color>
+    <color name="theme_accent">#04561A</color>
+    <color name="ltgray">#ffe0e0e0</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorschedule">#ED5564</color>
+    <color name="colorGreen">#A9FB8B</color>
+    <color name="colorPink">#F7BED6</color>
+    <color name="colorGrey">#A0A69D</color>
+    <color name="colorDarkGrey">#313030</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorOffWhite">#F0E0F0</color>
+
+    <color name="colorBlue">#3F51B5</color>
+    <color name="colorDarkPink">#E10F43</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkBlue">#303F9F</color>
+    <color name="color_NavyBlue">#2A99BC</color>
+
+    <color name="colorWhiteTranslucent">#D0FFFFFF</color>
+    <color name="colorBlackTranslucent">#20000000</color>
+
+    <color name="color_ShadyWhite">#40F7F0F0</color>
+    <color name="color_DarkShadWhite">#40F7F1F1</color>
+
+    <color name="primary">#785447</color>
+
+    <color name="dark">#333</color>
+</resources>
